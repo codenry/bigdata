@@ -14,7 +14,7 @@ def testPass(cryptPass):
 
     print ("[-] Password Not Found.\n")
     return
-
+#!Yo yo yo! 
 def main():
     passFile = open('passwords.txt')
     for line in passFile.readlines():
